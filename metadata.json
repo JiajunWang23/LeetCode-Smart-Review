@@ -1,0 +1,5 @@
+{
+  "name": "LeetCode Smart Review",
+  "description": "A personalized LeetCode dashboard that analyzes your profile to suggest reviews, highlight high-failure traps, and recommend new problems using Gemini AI.",
+  "requestFramePermissions": []
+}
